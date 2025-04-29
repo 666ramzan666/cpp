@@ -1,0 +1,14 @@
+Division by zero is not allowed
+Age must be between 0 and 120
+Array size cannot be negative
+Cannot calculate square root of negative number
+Element not found in array
+Division by zero in Divider class
+Invalid age in Age class
+Index out of bounds in MyArray
+Denominator cannot be zero in Fraction
+Negative number in SquareRoot class
+Division by zero is not allowed
+This is a custom exception
+Division by zero is not allowed
+Division by zero in Calculator
